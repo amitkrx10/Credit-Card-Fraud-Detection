@@ -62,7 +62,9 @@ Amit Kumar
 <img width="1236" height="701" alt="image" src="https://github.com/user-attachments/assets/6083481d-58cd-43ee-9e27-4d865b02284d" />
 <img width="1378" height="943" alt="image" src="https://github.com/user-attachments/assets/fc844628-38d1-47a0-a321-6b4c76b6b2cf" />
 
+📊 Credit Card Fraud Detection Dataset
 
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 
 
