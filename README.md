@@ -60,6 +60,7 @@ Amit Kumar
 <img width="738" height="577" alt="image" src="https://github.com/user-attachments/assets/5d27e91d-1feb-47a4-8595-d4eeb928423e" />
 <img width="983" height="707" alt="image" src="https://github.com/user-attachments/assets/dffce0de-8aa9-45aa-af02-ed58e9dca65e" />
 <img width="1236" height="701" alt="image" src="https://github.com/user-attachments/assets/6083481d-58cd-43ee-9e27-4d865b02284d" />
+<img width="1378" height="943" alt="image" src="https://github.com/user-attachments/assets/fc844628-38d1-47a0-a321-6b4c76b6b2cf" />
 
 
 
